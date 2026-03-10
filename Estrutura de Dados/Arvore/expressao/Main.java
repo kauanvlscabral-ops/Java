@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        VetorNo arvore = new VetorNo();
+        ArvoreExpressao arvore = new ArvoreExpressao();
 
         // Lista de expressões para teste
         String[] expressoes = {
